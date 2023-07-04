@@ -1,3 +1,17 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v24.5.2...v) (2023-07-04)
+
+
+### Bug Fixes
+
+* use nullish coalescing operator for hardenedRuntime default value ([#7643](https://github.com/electron-userland/electron-builder/issues/7643)) ([5fec686](https://github.com/electron-userland/electron-builder/commit/5fec686412b23614bf17f76d03fecc66c220ac99))
+
+
+### Features
+
+*  Added support for overriding ‘preAutoEntitlements’ for electron/osx-sign ([#7642](https://github.com/electron-userland/electron-builder/issues/7642)) ([2717282](https://github.com/electron-userland/electron-builder/commit/2717282cbff0dc0b6dee7e5af1fa0ecfcff1d5bf))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v24.5.1...v) (2023-06-27)
 
 
